@@ -182,6 +182,8 @@
 
 [モバイル空間統計](https://mobaku.jp/)
 
+[日本の県道一覧](https://altcva.main.jp/pref/)
+
 [Mapion](https://www.mapion.co.jp/m2/35.675869900000000,139.75710900000000,6)
 
 [Wireshark](https://forest.watch.impress.co.jp/library/software/wireshark/)
